@@ -252,8 +252,8 @@ form .row:first-child .floating-label-form-group {
 
 a {
   color: #18BC9C; }
-  a:focus, a:hover, a:active {
-    color: #128f76; }
+  a:focus, a:hover, a:active, a:visited, a:link {
+    color: #999999; }
 
 .btn {
   border-width: 2px; }
